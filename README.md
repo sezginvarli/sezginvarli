@@ -19,8 +19,8 @@
 <!--  Contact me links. replace href with your linkedin link. -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/selim-doner-softwaredeveloper/" target="blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selimdoner" height="30" width="40" />
+<a href="https://www.linkedin.com/in/sezginvarli/" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sezginvarli" height="30" width="40" />
 </a>
 </p>
 
@@ -63,17 +63,17 @@
 
 <!-- top languages that is used -->
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=selimdoner&show_icons=true&locale=en&layout=compact" alt="selimdoner" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sezginvarli&show_icons=true&locale=en&layout=compact" alt="sezginvarli" />
 </p>
 
 <!--  github stats  -->
 <p>&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=selimdoner&show_icons=true&locale=en" alt="selimdoner" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=sezginvarli&show_icons=true&locale=en" alt="sezginvarli" />
 </p>
 
 <!-- streak stats  -->
 <p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selimdoner&" alt="selimdoner"/>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sezginvarli&" alt="sezginvarli"/>
 </p>
 
 
