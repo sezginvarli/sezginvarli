@@ -1,6 +1,6 @@
 <!-- Information using h1 tag -->
 <h1 align="center">Hi 👋 I'm Sezgin VARLI</h1>
-<h5 align="center">Experienced to provide outstanding assistance in a team-oriented Agile environment, utilizing proficiency in the SDLC, and technical knowledge of development experience with domain knowledge in Online Marketplace applications.</h5>
+<h5 align="center">Expertise in Functional tests, Smoke tests, Regressions tests, UAT test, Integration tests, End to End tests</h5>
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
 
