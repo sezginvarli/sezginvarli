@@ -11,8 +11,8 @@
 
 <!-- trophies. replace username with yours-->
 <p align="left"> 
-	<a href="https://github.com/selimdoner">
-		<img src="https://github-profile-trophy.vercel.app/?username=selimdoner" alt="selimdoner" />
+	<a href="https://github.com/sezginvarli">
+		<img src="https://github-profile-trophy.vercel.app/?username=sezginvarli" alt="sezginvarli" />
 	</a> 
 </p>
 
